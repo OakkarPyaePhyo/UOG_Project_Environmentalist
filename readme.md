@@ -73,4 +73,5 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## How to Install this application?
 
-Firstly, your computer must have laravel package. 
+Firstly, your computer must have laravel package. How to install laravel? There are links to Laravel documentation and tutorial videos. 
+Run localhost in the browser. There are two main sides in this web application: users and admin. If you are new user, register you account and login.
